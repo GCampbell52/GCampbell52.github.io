@@ -3,12 +3,12 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I started my career in English literature, and then moved to Library and Infomration Science in the mid 1990s.  My research interests are diverse, but they center around issues of knowledge organization, as it applies to a variety of information settings and interest groups.  I am a member of the Canadian Association for Information Science, the Association for Information Science and Technology, and the International Society for Knowledge Organization.  I have presented my work in varioius locations in North America, Europe and South America.  My current research is funded by the Social Sciences and Humanities Research Council of Canada.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Information Services for Individuals Living with Dementia
+- Classification and Knowledge Organization
+- Bibliographic Description
+- LGBTQ+ Information Issues
+- Big Data and Linked Data
